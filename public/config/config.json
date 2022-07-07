@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0Aae880B7687699821504ffFf4625c62C5942B4A",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0Aae880B7687699821504ffFf4625c62C5942B4A",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "mark zuckerberg and jackma friendship",
+  "SYMBOL": "MAJF",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mark-zuckerberg-and-jackma-friendship",
+  "SHOW_BACKGROUND": true
+}
